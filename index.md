@@ -1,5 +1,5 @@
 # D3StudioFork v4.2 by jester
-## A heavily improved Diablo 3 (RoS/Eternal) save editor based on the recently open-sourced [D3Studio](https://github.com/Tonic-Box/D3Studio) by TonicBox
+## A modern Diablo 3 save editor (Reaper of Souls and Eternal Collection), based on the recently open-sourced [D3Studio](https://github.com/Tonic-Box/D3Studio) by TonicBox
 
 ## Downloads can be found under [Releases](https://github.com/god-jester/D3StudioFork/releases) 
 
@@ -42,3 +42,5 @@
 ![image](https://i.imgur.com/kh3aRXu.png)
 
 ![image](https://i.imgur.com/s3xNnnp.png)
+
+Diablo III Save Editor for PS4, PS5, and Nintendo Switch in 2022 and beyond? Yes please! Reaper of Souls and Eternal Collection, of course.
