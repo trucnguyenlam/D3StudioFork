@@ -37,14 +37,8 @@
 
 ![image](https://i.imgur.com/aWaxHNL.png)
 
-<details>
-
-<summary>More screenshots</summary>   
-
 ![image](https://i.imgur.com/LHBHCJX.png)
 
 ![image](https://i.imgur.com/kh3aRXu.png)
 
 ![image](https://i.imgur.com/s3xNnnp.png)
-
-</details>
