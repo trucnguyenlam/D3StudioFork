@@ -43,4 +43,4 @@
 
 ![image](https://i.imgur.com/s3xNnnp.png)
 
-Diablo III Save Editor for PS4, PS5, and Nintendo Switch in 2022 and beyond? Yes please! Reaper of Souls and Eternal Collection, of course.
+Diablo III save editor for Nintendo Switch, Playstation 4 - PS4, and Playstation 5 - PS5 in 2022 and beyond? Yes please! Diablo 3 Reaper of Souls and Eternal Collection, of course.
