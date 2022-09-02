@@ -38,14 +38,13 @@
 ![image](https://i.imgur.com/aWaxHNL.png)
 
 <details>
-  <summary>More screenshots</summary>
-  
-  ![image](https://i.imgur.com/LHBHCJX.png)
 
-  ![image](https://i.imgur.com/kh3aRXu.png)
+<summary>More screenshots</summary>   
 
-  ![image](https://i.imgur.com/s3xNnnp.png)
-  
-  https://user-images.githubusercontent.com/90997402/149216231-26232c89-eb1e-4837-a62c-bb3995de7af5.mp4
-  
+![image](https://i.imgur.com/LHBHCJX.png)
+
+![image](https://i.imgur.com/kh3aRXu.png)
+
+![image](https://i.imgur.com/s3xNnnp.png)
+
 </details>
